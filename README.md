@@ -4,7 +4,7 @@
 
 Hello, my name is Ayi. I'm still getting to know the world of web dev. I really want to be able to make AI. I want to make an AI that can accompany me
 
-<iframe src="https://giphy.com/embed/3o7btMCltyDvSgF92E" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/crunchyroll-simulcast-3o7btMCltyDvSgF92E">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="480" height="269" alt="Anime GIF"/>
 
 ## 📊 GitHub Stats
 
