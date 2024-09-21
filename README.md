@@ -1,18 +1,44 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="" height="" alt="Mario"/>
+<div align="center">
+   <img src="https://i.pinimg.com/originals/d2/87/a5/d287a58e2b14f4df1fa35d2c49bc4331.gif" alt="Anime Girl GIF" width="80%" style="max-width: 100px;">
 
-## Hi, I'm Evelynn
+  <h1 align="center" class="heading-element" dir="auto">Hi, I'm Evelyn</h1>
+
+  <a href="https://github.com/evelynn30/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=evelynn30&theme=dracula" alt="trophy">
+  </a>
+</div>
 
 ## About Me
 
-Hello, my name is Ayi.
+- Hello, u can call me Ayi.
+- Student
+- Still Learning
+- Love Drawing.Anime,Manga,Game and Japan girl
 
-<img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="" height="" alt="Anime GIF"/>
+## Stats
+
+<div align="center" dir="auto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynn30&layout=compact&theme=radical" alt="evelynn30" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynn30&show_icons=true&theme=radical" alt="Your GitHub stats" style="max-width: 100%;">
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## Sosial Media
 
-## GitHub Stats
+<p dir="auto">
+<a href="https://www.tiktok.com/@3velynns" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294006-04e22871-2943-4626-9a99-e1d416cbda26.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
+<a href="https://discord.com/users/942432185812676608" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
+<a href="https://www.instagram.com/tw3ynn/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</a>
+</p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=evelynn30&show_icons=true&theme=radical)
+
 
 <!---
 evelynn30/evelynn30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
