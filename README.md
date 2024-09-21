@@ -1,10 +1,14 @@
-## Hi, I'm @evelynn30
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="" height="" alt="Mario"/>
+
+## Hi, I'm Evelynn
 
 ## About Me
 
-Hello, my name is Ayi. I'm still getting to know the world of web dev. I really want to be able to make AI. I want to make an AI that can accompany me
+Hello, my name is Ayi.
 
-<img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="480" height="269" alt="Anime GIF"/>
+<img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="" height="" alt="Anime GIF"/>
+
+## Sosial Media
 
 ## GitHub Stats
 
