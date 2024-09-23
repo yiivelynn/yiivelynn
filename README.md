@@ -3,9 +3,9 @@
 
   <h1 align="center" class="heading-element" dir="auto">Hi, I'm Evelyn</h1>
 
-  <a href="https://github.com/evelynn30/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=evelynn30&theme=dracula" alt="trophy">
-  </a>
+ <a href="https://github.com/evelynn30/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=evelynn30&theme=dracula" alt="trophy" style="max-width: 100%;">
+</a>
 </div>
 
 ## About Me
