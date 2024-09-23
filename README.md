@@ -18,8 +18,9 @@
 ## Stats
 
 <div align="center" dir="auto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynn30&layout=compact&theme=radical" alt="evelynn30" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evelynn30&show_icons=true&theme=radical" alt="Your GitHub stats" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evelynn30&theme=material-palenight&hide_border=true" alt="evelynn30" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynn30&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="evelynn30" style="max-width: 100%;">
+   
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
