@@ -3,8 +3,8 @@
 
   <h1 align="center" class="heading-element" dir="auto">Hi, I'm Evelyn</h1>
 
- <a href="https://github.com/evelynn30/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=evelynn30&theme=dracula" alt="trophy" style="max-width: 100%;">
+ <a href="https://github.com/yuidr3amy/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuidr3amy&theme=dracula" alt="trophy" style="max-width: 100%;">
 </a>
 </div>
 
@@ -18,8 +18,8 @@
 ## Stats
 
 <div align="center" dir="auto">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evelynn30&theme=material-palenight&hide_border=true" alt="evelynn30" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynn30&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="evelynn30" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evelynn30&theme=material-palenight&hide_border=true" alt="yuidr3amy" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynn30&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="yuidr3amy" style="max-width: 100%;">
    
 </div>
 
