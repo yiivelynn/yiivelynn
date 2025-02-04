@@ -18,8 +18,8 @@
 ## Stats
 
 <div align="center" dir="auto">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuidr3amy&theme=material-palenight&hide_border=true" alt="yuidr3amy" style="max-width: 100%;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuidr3amy&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="yuidr3amy" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuidr3amy&theme=material-palenight&hide_border=true" alt="" style="max-width: 100%;">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuidr3amy&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="" style="max-width: 100%;">
    
 </div>
 
