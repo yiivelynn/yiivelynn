@@ -13,7 +13,7 @@
 - Hello, u can call me Ayi.
 - Student
 - Still Learning
-- Love Drawing.Anime,Manga,Game and Japan girl
+- Love Drawing.Anime,Manga,Game
 
 ## Stats
 
